@@ -1,3 +1,5 @@
+## Informations
+
 Welcome to the repositorie for my personal portfolio 👋
 
 PROGRESS BAR 
