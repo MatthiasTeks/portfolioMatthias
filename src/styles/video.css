@@ -1,0 +1,20 @@
+.videoContainer {
+    overflow: hidden;
+    height: 100%;
+}
+
+.videoContainer::before {
+    background-image: linear-gradient(to top right, #1a1a1a, transparent);
+    content: "";
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+
+@media screen and (max-width: 1023px) {
+    .containerApp {
+        width: 100%;
+        border-left: none;
+        border-right: none;
+    }
+}
