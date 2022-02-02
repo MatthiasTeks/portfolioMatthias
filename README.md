@@ -1,10 +1,10 @@
-## Informations
+## first try Portfolio 📖
 
-Welcome to the repositorie for my personal portfolio 👋
+Welcome to the repositorie for my first personal portfolio 👋
 
 PROGRESS BAR 
 
-![60%](https://progress-bar.dev/60)
+![30%](https://progress-bar.dev/30)
 
 I have worked with HTML, CSS, JS, React ⚙️
 
